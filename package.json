@@ -1,5 +1,5 @@
 {
-  "name": "node_upload_file",
+  "name": "node_file_uploader",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisangel-2/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luisangel-2/nodejs/issues"
+  },
+  "homepage": "https://github.com/luisangel-2/nodejs#readme"
 }
